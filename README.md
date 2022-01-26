@@ -1,16 +1,7 @@
-# React-Electron-TypeScript-Demo
-> 一个简简单单的Demo，用来开发桌面应用
+# electron with react, typescript
+- electron 16
+- react 17
+- recoil 0.15
+- typescript 4.5
 
-技术栈：`React`、`Electron`、`TypeScript`、`Ant Design`、`Recoil状态管理`、`Less`
-
-## 安装依赖
-
-```shell
-yarn install
-```
-
-## 运行项目
-
-```shell
-yarn run start
-```
+*last updated 2022-01-26 *
